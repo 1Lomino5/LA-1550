@@ -30,7 +30,8 @@ Bei der Ausweichtaktik wendete ich eine ziemlich simple Methode an. Wird mein Ro
 <br>
 ### Video zur Bewegungstaktik
 Als ich zur Bewegungsstaktik meines Roboters kam wurde mir klar, dass in meinem Fall diese der wichtigste Teil der gesamten Taktik ist. Um besser erklären zu können wie sich mein Roboter verhält hier ein Video dazu:
-<br> """""""VIDEO HIER"""""""
+
+https://user-images.githubusercontent.com/89131418/151146392-d075a247-c863-4152-82fd-109c98905638.mp4
 
 ### Überlegungen zu den einzelnen Stages der Bewegung
 #### Stage 1
