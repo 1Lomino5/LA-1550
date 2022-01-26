@@ -9,8 +9,10 @@ Taktik eines Junior Robocode, welcher mit Java erstellt wurde.
 ## Erklärung von Robocode
 Robocode ist ein Open-Source-Programmierspiel, bei dem virtuelle Roboter auf einem Spielfeld gegeneinander kämpfen. Die einzelnen Roboter bestehen dabei aus einem Radar der Objekte orten kann, einer Kanone die geortete Objekte beschiessen kann und dem Roboter selbst, welcher umher fahren kann. Es geht darum, dass der eigene Roboter möglichst viele Punkte durch Eliminierungen und/oder durch das Überleben erzielt. Jeder Roboter hat ein Leben, mit einer gewissen Anzahl Punkte. Diese verliert man, wenn der Roboter von einem Schuss getroffen wird und/oder wenn man selber einen Schuss abgibt. Hat man kein Leben mehr, stirbt man und hat verloren. 
 
-## Bild einer Robocode Arena mit Robotern
-<br> """"""""""""BILD HIER"""""""""""""
+## Robocode Arena mit Robotern
+
+![GIFRoboCode](https://user-images.githubusercontent.com/89131418/151140081-248d9db1-e5db-4f47-b01d-6f0069eefe11.gif)
+
 
 ## Taktik
 Im Projekt Robocode spielt das Thema Taktik eine wichtige Rolle, denn auch wenn man den besten Code schreibt, kommt man mit einer schlechten Taktik nicht weit. Daher befasste ich mich ein Grossteil der Zeit mit dem Entwerfen einer Taktik. Das Ziel meiner Taktik ist es so lange wie möglich zu überleben, wie ich das versucht habe umzusetzten können Sie in den folgenden Kapiteln lesen. 
