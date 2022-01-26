@@ -23,7 +23,7 @@ Die Taktik die ich verfolgt habe ist wie folgt: Ist das erfasste Objekt weiter a
 <br>
 <br>
 ### Ausweichtaktik
-Bei der Ausweichtaktik wendete ich eine ziemlich simple Methode an. Wird mein Roboter von einem Schuss getroffen, so versucht dieser mit Vorwärts ``ahead(10)``, Rückwärts ``back(15)`` und dann wieder Vorwärts ``ahead(20)`` sich von dem Radar des Gegner loszulösen.
+Bei der Ausweichtaktik wendete ich eine ziemlich simple Methode an. Wird mein Roboter von einem Schuss getroffen, so versucht dieser mit Vorwärts ``ahead(150)``, Rückwärts ``back(100)`` und dann wieder Vorwärts ``ahead(200)`` sich von dem Radar des Gegner loszulösen.
 <br>
 <br>
 ### Video zur Bewegungstaktik
