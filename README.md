@@ -42,7 +42,7 @@ Verbleiben weniger Spieler als die festgelegte Zahl, begibt sich der Roboter in 
 
 ## Die verschiedenen Stages der Bewegung eingebettet im Code
 <br> """"""""""""""""""BILD DES CODES"""""""""""""""""""""
-Um in die nächste Stage zu gelangen, habe ich im Code eine einfache Methode verwendet. Ich habe eine Variable Stage eingefürt, welche bei 1 (für Stage 1) startet. Am Ende jeder Stage wird zu dieser Variable eins hinzugefügt, so wird der Ablauf an die nächste Stage weitergeleitet. Eine Besonderheit sieht man am Ende der Stage 2, da erst in Stage 3 gewechselt wird, wenn eine gewisse Anzahl Spieler übrig bleiben. So kann ich sicherstellen, dass Stage 2 so lange durchlaufen wird, bis die Bedingung erfüllt wurde.
+Um in die nächste Stage zu gelangen, habe ich im Code eine einfache Methode verwendet. Ich habe eine Variable Stage eingefürt, welche bei 1 (für Stage 1) startet. Am Ende jeder Stage wird zu dieser Variable eins hinzugefügt (siehe Abbildung oben, rot markiert), so wird der Ablauf an die nächste Stage weitergeleitet. Eine Besonderheit sieht man am Ende der Stage 2, da erst in Stage 3 gewechselt wird, wenn eine gewisse Anzahl Spieler übrig bleiben (siehe Abbildung oben, blau markiert). So kann ich sicherstellen, dass Stage 2 so lange durchlaufen wird, bis die Bedingung erfüllt wurde.
 
 ## Verifikation
 Nachdem das Portfolio gelesen wurde, sollten die LeserInnen wissen was Robocode ist, wie meine Taktik aufgebaut wurde und wie ich die verschiedenen Stages im Code eingeleitet habe.
