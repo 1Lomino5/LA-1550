@@ -41,7 +41,10 @@ Als nächstes beginnt sich der Roboter in einem Quadrat zu bewegen, das macht er
 Verbleiben weniger Spieler als die festgelegte Zahl, begibt sich der Roboter in die Mitte des Spielfeldes. Durch mehrere Tests habe ich herausgefunden, dass im Endgame sich im Zentrum weniger Spieler befinden. Hat er das Zentrum erreicht, beginnt er sich im Kreis zu bewegen. Mit der Kreisbewegung will ich möglichst vielen Schüssen ausweichen, da der Winkel schwieriger zu treffen ist, als wenn ich mich gerade bewege.
 
 ## Die verschiedenen Stages der Bewegung eingebettet im Code
-<br> """"""""""""""""""BILD DES CODES"""""""""""""""""""""
+
+![BildVomCode](https://user-images.githubusercontent.com/89131418/151137720-74fa6725-7e51-4ecc-93ba-bdea8a62af69.jpg)
+
+
 Um in die nächste Stage zu gelangen, habe ich im Code eine einfache Methode verwendet. Ich habe eine Variable Stage eingefürt, welche bei 1 (für Stage 1) startet. Am Ende jeder Stage wird zu dieser Variable eins hinzugefügt (siehe Abbildung oben, rot markiert), so wird der Ablauf an die nächste Stage weitergeleitet. Eine Besonderheit sieht man am Ende der Stage 2, da erst in Stage 3 gewechselt wird, wenn eine gewisse Anzahl Spieler übrig bleiben (siehe Abbildung oben, blau markiert). So kann ich sicherstellen, dass Stage 2 so lange durchlaufen wird, bis die Bedingung erfüllt wurde.
 
 ## Verifikation
